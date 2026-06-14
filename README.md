@@ -20,7 +20,8 @@ export PATH="$HOME/Projects/sysutils/bin:$PATH"
 ```
 Add the same line to your `zshrc` or `bashrc` to make it permanent and reload the shell.
 
->[!Note] All scripts can be run directly from the terminal.
+> [!NOTE]
+> All scripts can be run directly from the terminal.
 
 ## Adding New Scripts
 1. Place the script in the appropriate category directory.
