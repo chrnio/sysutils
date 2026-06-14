@@ -13,4 +13,4 @@ find . \
              "bin/$(basename "$file" .sh)"
     done
 
-echo "Symlinks generated in ./bin"
+echo "Symlinks generated in ./bin directory"
