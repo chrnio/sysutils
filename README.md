@@ -16,7 +16,7 @@ Generate command symlinks:
 
 Add the generated `bin` directory to your PATH:
 ```bash
-export PATH="$HOME/Projects/sysutils/bin:$PATH"
+export PATH="$HOME/Projects/sysutils/bin:$PATH" #  change if cloned elsewhere.
 ```
 Add the same line to your `zshrc` or `bashrc` to make it permanent and reload the shell.
 
